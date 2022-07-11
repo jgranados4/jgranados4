@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Juan Gustavo</h1>
-<h3 align="center">Aprendiendo a programar</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
