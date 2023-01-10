@@ -35,7 +35,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jgranados/jgranados/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
