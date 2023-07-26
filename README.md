@@ -7,7 +7,31 @@
 <br clear="both">
 
 <p align="left">
-  Soy una persona comprometida con la satisfacción del cliente, siempre dispuesta a brindar un servicio excepcional. Cuento con una amplia experiencia en Desarrollo Frontend, destacando mis sólidos conocimientos en HTML, CSS y JavaScript. Además, tengo habilidades en PHP, Laravel, MySQL, MongoDB, React y PostgreSQL, lo que me permite abordar proyectos de manera integral y eficiente. Mi capacidad para adaptarme tanto al trabajo en equipo como a la autonomía me permite adaptarme a las necesidades del proyecto y alcanzar los objetivos establecidos de manera efectiva. He trabajado en diversos entornos colaborativos, donde he podido comunicarme y colaborar con éxito con otros profesionales para alcanzar resultados excepcionales.
+  Soy una persona comprometida con
+la satisfacción del cliente,
+siempre dispuesta a brindar un
+servicio excepcional. Cuento con
+una amplia experiencia en
+Desarrollo Frontend, destacando
+mis sólidos conocimientos en
+HTML, CSS y JavaScript. Además,
+tengo habilidades en PHP,
+Laravel, MySQL, MongoDB, React y
+PostgreSQL, lo que me permite
+abordar proyectos de manera
+integral y eficiente.
+Mi capacidad para adaptarme
+tanto al trabajo en equipo como
+a la autonomía me permite
+adaptarme a las necesidades del
+proyecto y alcanzar los
+objetivos establecidos de manera
+efectiva. He trabajado en
+diversos entornos colaborativos,
+donde he podido comunicarme y
+colaborar con éxito con otros
+profesionales para alcanzar
+resultados excepcionales.
 </p>
 
 ###
