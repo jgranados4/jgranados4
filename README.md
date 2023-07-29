@@ -70,6 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jgranados4/jgranados4/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jgranados4/output/snake.svg" alt="Snake animation" />
 
 ###
