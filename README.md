@@ -16,15 +16,6 @@ Lenguajes de Programación: JavaScript, C#, PHP.
 Frameworks: Angular, React.
 Base de Datos: SQL, SQL Server.
 Tecnologías Web: HTML, CSS.</h3>
-
-###
-
-<p align="left">I'm  Juan Granados <br><br>- 📚 I am currently learning Python and React<br>- ⚡ In my free time, I read books and spend time in video games</p>
-
-###
-
-<h1 align="left">🛠 Language and tools</h1>
-
 ###
 
 <div align="left">
