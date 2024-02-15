@@ -8,7 +8,14 @@
 
 ###
 
-<h3 align="left">👩‍💻 Soy un apasionado desarrollador Frontend con amplia experiencia en la creación de sitios web y aplicaciones interactivas. Me enfoco en HTML, CSS, JavaScript y diferentes frameworks. Soy comprometido con la satisfacción del cliente, brindando un servicio excepcional. Tengo habilidades en PHP, Laravel, MySQL, MongoDB, React y PostgreSQL, lo que me permite abordar proyectos de manera integral y eficiente. Soy adaptable al trabajo en equipo y la autonomía, comunicándome y colaborando con éxito para alcanzar resultados excepcionales.</h3>
+<h3 align="left">¡Hola! Soy Juan Gustavo Granados Merchán, un apasionado desarrollador Full Stack con habilidades sólidas en una variedad de tecnologías clave. Mi experiencia abarca desde el desarrollo frontend utilizando Angular y React hasta la implementación de soluciones robustas en el backend con JavaScript (Node.js) y C#. Además, tengo una sólida comprensión de las tecnologías web fundamentales como HTML, CSS, y PHP.
+
+💼 Experiencia Técnica:
+
+Lenguajes de Programación: JavaScript, C#, PHP.
+Frameworks: Angular, React.
+Base de Datos: SQL, SQL Server.
+Tecnologías Web: HTML, CSS.</h3>
 
 ###
 
