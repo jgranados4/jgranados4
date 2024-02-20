@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">¡Hola! Soy Juan Gustavo Granados Merchán, un apasionado desarrollador Full Stack con habilidades sólidas en una variedad de tecnologías clave. Mi experiencia abarca desde el desarrollo frontend utilizando Angular y React hasta la implementación de soluciones robustas en el backend con JavaScript (Node.js) y C#. Además, tengo una sólida comprensión de las tecnologías web fundamentales como HTML, CSS, y PHP.</h3>
+<h3 align="left">¡¡Hola! Soy Juan Gustavo Granados Merchán, un apasionado desarrollador Web con habilidades sólidas en una variedad de tecnologías clave. Mi experiencia abarca desde el desarrollo Web utilizando Angular y React hasta la implementación de soluciones robustas en el backend con JavaScript (Node.js) y C#. Además, tengo una sólida comprensión de las tecnologías web fundamentales como HTML, CSS, y PHP.</h3>
 
 ###
 
