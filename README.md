@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💼 Experiencia Técnica:<br>Lenguajes de Programación: JavaScript, C#, PHP.<br>Frameworks: Angular, React.<br>Base de Datos: SQL, SQL Server.<br>Tecnologías Web: HTML, CSS.</p>
+<p align="left">💼 Experiencia Técnica:<br>Lenguajes de Programación: JavaScript, C#, PHP.<br>Frameworks: Angular.<br>Base de Datos: SQL, SQL Server.<br>Tecnologías Web: HTML, CSS.</p>
 
 ###
 
