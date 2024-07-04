@@ -10,7 +10,19 @@
 
 ###
 
-<p align="left">💼 Experiencia Técnica:<br>Lenguajes de Programación: JavaScript, C#, PHP.<br>Frameworks: Angular.<br>Base de Datos: SQL, SQL Server.<br>Tecnologías Web: HTML, CSS.</p>
+💻 Desarrollador Web Full Stack
+
+ El desarrollo de soluciones web robustas y escalables. Especializado en Angular, ASP .NET Core, Node.js y SQL Server.
+
+Habilidades:
+
+🎨 Frontend: Interfaces interactivas con Angular.
+🛠️ Backend: APIs seguras con ASP .NET Core y Node.js.
+🗄️ Bases de Datos: Diseño y optimización en SQL Server.
+🔗 Integración: Interoperabilidad de sistemas.
+🤝 Trabajo en Equipo: Colaboración ágil y eficaz.
+🧩 Resolución de Problemas: Enfoque analítico y solución eficiente.
+Comprometido con la mejora continua y la adopción de nuevas tecnologías. Buscando siempre nuevos desafíos en el desarrollo web.
 
 ###
 
