@@ -49,8 +49,6 @@ Comprometido con la mejora continua y la adopción de nuevas tecnologías. Busca
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
