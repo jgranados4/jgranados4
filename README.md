@@ -13,15 +13,7 @@
 💻 Desarrollador Web Full Stack
 ###
 💻 Profesional apasionado y comprometido con en el desarrollo de soluciones web eficientes y robustas. Experto en la utilización de tecnologías modernas como Angular, ASP .NET Core, Node.js y SQL Server para crear aplicaciones web escalables y de alto rendimiento.
-Habilidades:
-
-🎨 Frontend: Interfaces interactivas con Angular.
-🛠️ Backend: APIs seguras con ASP .NET Core y Node.js.
-🗄️ Bases de Datos: Diseño y optimización en SQL Server.
-🔗 Integración: Interoperabilidad de sistemas.
-🤝 Trabajo en Equipo: Colaboración ágil y eficaz.
-🧩 Resolución de Problemas: Enfoque analítico y solución eficiente.
-Comprometido con la mejora continua y la adopción de nuevas tecnologías. Buscando siempre nuevos desafíos en el desarrollo web.
+Habilidades
 
 ###
 
