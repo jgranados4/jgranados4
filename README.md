@@ -9,9 +9,6 @@
 <h2 align="left">Acerca de mi</h2>
 
 ###
-
-💻 Desarrollador Web Full Stack
-###
 💻 Ingeniero de Software Full Stack | Angular & .NET CoreDesarrollador web enfocado en construir sistemas modernos, rápidos y escalables.🚀 Lo que aporto:    Stack Principal: Angular (Signals, Material), ASP.NET Core, SQL Server y Docker.Impacto Real: Experiencia migrando sistemas de escritorio a web y Base de Datos.Enfoque: Arquitectura limpia (Clean Architecture), código mantenible y alto rendimiento.
 
 ###
